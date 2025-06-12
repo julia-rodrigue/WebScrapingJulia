@@ -23,7 +23,7 @@ header h1 {
   color: #0066cc;
 }
 
-#style-btn {
+#btnF {
   background: #ff4aab;
   color: #fff;
   font-size: 1.1rem;
@@ -34,7 +34,7 @@ header h1 {
   transition: background 0.3s ease;
 }
 
-#style-btn:hover {
+#btnF:hover {
   background: #ff4aab;
 }
 
