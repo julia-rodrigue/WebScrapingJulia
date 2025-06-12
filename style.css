@@ -7,7 +7,7 @@
 body {
   font-family: Arial, sans-serif;
   color: #333;
-  background: #FFCBE7;
+  background: #ffcbe7;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -24,7 +24,7 @@ header h1 {
 }
 
 #style-btn {
-  background: #FF4AAB;
+  background: #ff4aab;
   color: #fff;
   font-size: 1.1rem;
   padding: 12px 24px;
